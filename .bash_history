@@ -160,3 +160,332 @@ vim num.cpp
 l1,l2,l3
 vim num.cpp
 num.cpp
+tipididato.cpp
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipididato
+touch tipididato.cpp
+vim tipididato.cpp
+./tipididato
+-1
+./tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipididato
+vime tipididato.cpp
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipididato
+vim tipididato.cpp
+./tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipidato
+./tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipididato
+vim tipididato.cpp
+./tipididato
+python3
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipididato
+vim tipididato.cpp
+python3
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipidato
+./tipididato
+s1 d7dijijy
+vim tipididato.cpp
+g++ tipididtao.cpp -o tipididato
+g++ tipididato.cpp -o tipididato
+./tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipididato
+vim tipididato.cpp
+g++ tipididato.cpp
+g++ tipididato.cpp o- tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipididato
+vim tipididato.cpp
+g++ tipididato.cpp -o tipididato
+./tipididato
+vim tipididato.cpp
+vim eqifelse.cpp
+g++ eqifelse.cpp -o eqifelse
+./eqifelse
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp
+vim equaz.cpp
+g++ equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp
+./equaz
+vim equaz.cpp
+./equaz
+vim equaz.cpp
+./equaz
+vim equaz.cpp
+g++ equaz.cpp
+./equaz
+vim equaz.cpp
+g++ equaz.cpp
+./equaz
+vim equaz.cpp
+g++ equaz.cpp
+./equaz
+vim vocale.cpp
+g++ vocale.cpp
+./vocale
+g++ vocale.cpp -o vocale
+./vocale
+vim vocale.cpp
+g++ vocale.cpp -o vocale
+./vocale
+vim vocale.cpp
+g++ vocale.cpp -o vocale
+./vocale
+vim vocale.cpp
+./vocale
+vim vocale.cpp
+g++ vocale.cpp -o vocale
+./vocale
+./vocale 
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+./equaz
+vim equaz.cpp
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+./equaz
+vim equaz.cpp
+./equaz
+sudo apt update
+sudo apt install git
+git --version
+git config --global user.name "Chiara Di Martino"
+git config --global user.email "dimartinochiara44@gmail.com"
+vim equaz.cpp
+g++ equaz.cpp -o equaz
+cd /Documenti/ProgettiC++
+git init
+git add equaz.cpp
+git commit -m "Primo caricamento file programma saldi sui conti bancari"
+git remote add origin https://github.com/Chiara-Di-Martino/C++_Fisica_corsoinformatica.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/dimartinochiara44-create/Fisica_corsoinformatica
+git remote -v
+git add equaz.cpp
+git push origin main
+git remote add origin https://github.com/dimartinochiara44-create/Fisica_corsoinformatica.git
+git remote -v
+https://github.com/dimartinochiara44-create/Fisica_corsoinformatica
+git add equaz.cpp
+git commit -m "Aggiunto programma commissione e interesse"
+git push origin main
+git add equaz.cpp
+git commit -m "Primo caricamento equaz.cpp"
+git add .
+git commit -m "Aggiunto equaz.cpp"
+git push origin main
+git status
