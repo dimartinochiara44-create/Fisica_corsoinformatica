@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 723,
+  "port": 8888,
+  "root_dir": "/home/shakira06",
+  "secure": false,
+  "sock": "",
+  "token": "4ef037eb04ef90acad904606b99b01100054b1e3e76f0c71",
+  "url": "http://localhost:8888/",
+  "version": "2.17.0"
+}
